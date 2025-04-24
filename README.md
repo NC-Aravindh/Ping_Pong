@@ -60,4 +60,4 @@ A Python implementation of the classic Ping Pong game using the Turtle module. T
 
 ## Author
 
-- [Your Name](Your Profile Link)
+- [AravindhNC]
